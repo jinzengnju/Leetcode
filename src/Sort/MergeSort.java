@@ -29,6 +29,7 @@ public class MergeSort {
             temp[mergeindex++]=a[i++];
         while(j<high)
             temp[mergeindex++]=a[j++];
+        //这里非常重要，将归并后的结果融入原数组
         for(int m=0;m<temp.length;m++){
             a[low+m]=temp[m];
         }

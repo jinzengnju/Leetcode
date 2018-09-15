@@ -18,7 +18,7 @@ public class QuickSort {
                 break;
             swap(nums,i,j);
         }
-        swap(nums,l,j);
+        swap(nums,l,j);//为什么要多交换一次，原因书上有写出来
         return j;
     }
     private void swap(int[] nums,int l,int h){
