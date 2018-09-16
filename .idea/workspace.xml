@@ -3,65 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Array/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Array/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Array/LongestIncreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Array/LongestIncreasingSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Array/MaximumSeiries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Array/MaximumSeiries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Array/MedianofTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Array/MedianofTwoSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BFS/BFS1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BFS/BFS1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BFS/PerfectSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BFS/PerfectSquares.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BackTracking/PalindromePartitioning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BackTracking/PalindromePartitioning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BinarySearch/binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/DFS/MaxAreaofIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/DFS/MaxAreaofIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Dynamic/HouseRobber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Dynamic/HouseRobber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Dynamic/PartitionEqualSubsetSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Dynamic/PartitionEqualSubsetSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Dynamic/ZeroOneBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Dynamic/ZeroOneBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/List/IntersectionofTwoLinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/List/IntersectionofTwoLinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/List/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/List/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/List/MergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/List/MergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/List/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/List/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sort/KthLargestElementinanArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sort/KthLargestElementinanArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Sort/TopKFrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Sort/TopKFrequentElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/LongestPalidrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/LongestPalidrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/LoopContain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/LoopContain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/LoopMove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/LoopMove.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/MinimumWIndowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/MinimumWIndowSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/ValidAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/ValidAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/String/WordReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/String/WordReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/BalancedBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/BalancedBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/BalancedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/BalancedBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/BinaryTreeInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/BinaryTreeInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/ConvertTreeToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/ConvertTreeToList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/DiameterofBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/DiameterofBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/DiameterofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/DiameterofBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/ImageOfTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/ImageOfTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/InvertBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/InvertBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MakeBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MakeBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree2$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree2$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MaximumDepthOfBinaryTree2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MergeTwoBinaryTrees$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MergeTwoBinaryTrees$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MergeTwoBinaryTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MergeTwoBinaryTrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/MinimumDepthofBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/MinimumDepthofBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/NextPointInTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/NextPointInTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/NextPointInTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/NextPointInTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSumIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/PathSumIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/SerilizedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/SerilizedTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/SubtreeofAnotherTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/SubtreeofAnotherTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/SubtreeofAnotherTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/SubtreeofAnotherTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/SymmetricTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/SymmetricTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/TreeNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Tree/TreeNode_v2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Tree/TreeNode_v2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TwoPointers/LongestWordinDictionarythroughDeleting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/TwoPointers/LongestWordinDictionarythroughDeleting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TwoPointers/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/TwoPointers/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/PrintList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/PrintList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/InvertBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UseOfJava/TestInputFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseOfJava/TestInputFromConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Huawei/UseOfHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/UseOfHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/UseOfHashSet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,23 +25,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="38" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="8346" />
+          <entry key="java" value="11775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8345" />
+          <entry key="JAVA" value="11774" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -108,12 +51,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OtherWithAnything/MergeSort.java">
+        <entry file="file://$PROJECT_DIR$/src/HashMap/LinkedHashMapAndSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+            <state relative-caret-position="371">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1060#1088#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,14 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Array/要点" />
-        <option value="$PROJECT_DIR$/src/Array/LCS.java" />
-        <option value="$PROJECT_DIR$/src/Tree/SubtreeofAnotherTree.java" />
-        <option value="$PROJECT_DIR$/src/Tree/MinimumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointers/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointers/LongestWordinDictionarythroughDeleting.java" />
-        <option value="$PROJECT_DIR$/src/Sort/TopKFrequentElements.java" />
-        <option value="$PROJECT_DIR$/src/Sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/BFS/注意" />
         <option value="$PROJECT_DIR$/src/BFS/BFS1.java" />
         <option value="$PROJECT_DIR$/src/BFS/PerfectSquares.java" />
@@ -185,6 +120,14 @@
         <option value="$PROJECT_DIR$/src/Huawei/UseOfHashSet.java" />
         <option value="$PROJECT_DIR$/src/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/OtherWithAnything/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Huawei/SixteenToTen.java" />
+        <option value="$PROJECT_DIR$/src/Huawei/LoopDelete.java" />
+        <option value="$PROJECT_DIR$/src/Array/LoopDelete.java" />
+        <option value="$PROJECT_DIR$/src/HashSet/UseOfHashSet.java" />
+        <option value="$PROJECT_DIR$/src/HashSet/DeleteDuplicateChar.java" />
+        <option value="$PROJECT_DIR$/src/Huawei/ShuDu.java" />
+        <option value="$PROJECT_DIR$/src/Huawei/Test4.java" />
+        <option value="$PROJECT_DIR$/src/HashMap/LinkedHashMapAndSort.java" />
       </list>
     </option>
   </component>
@@ -195,8 +138,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="803" />
-    <option name="width" value="1943" />
+    <option name="x" value="587" />
+    <option name="width" value="1790" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -222,18 +165,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -243,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537059346287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537076546327" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -264,14 +195,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huawei.Main" />
+  <component name="RunManager" selected="Application.Test4">
+    <configuration name="DeleteDuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSet.DeleteDuplicateChar" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Huawei.*" />
+          <option name="PATTERN" value="HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,13 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huawei.Main3" />
+    <configuration name="LoopDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.LoopDelete" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Huawei.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,13 +238,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerilizedTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.SerilizedTree" />
+    <configuration name="SixteenToTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huawei.SixteenToTen" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseOfHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huawei.UseOfHashSet" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huawei.Test4" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -356,19 +287,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SerilizedTree" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.UseOfHashSet" />
-      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.SixteenToTen" />
+      <item itemvalue="Application.LoopDelete" />
+      <item itemvalue="Application.DeleteDuplicateChar" />
+      <item itemvalue="Application.Test4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.DeleteDuplicateChar" />
+        <item itemvalue="Application.LoopDelete" />
+        <item itemvalue="Application.SixteenToTen" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.UseOfHashSet" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.SerilizedTree" />
       </list>
     </recent_temporary>
   </component>
@@ -399,18 +330,18 @@
       <workItem from="1536811783387" duration="10796000" />
       <workItem from="1536973393148" duration="11840000" />
       <workItem from="1537022179863" duration="6928000" />
-      <workItem from="1537058542289" duration="843000" />
+      <workItem from="1537058542289" duration="12150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143802000" />
+    <option name="totallyTimeSpent" value="155109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="0" width="1554" height="830" extended-state="0" />
+    <frame x="470" y="0" width="1432" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23262031" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18995634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,13 +350,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32664755" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31948423" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32808024" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.308" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32980973" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32577905" />
@@ -447,35 +378,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TwoPointers/LongestWordinDictionarythroughDeleting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/binarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="89" column="18" lean-forward="true" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS.java" />
-    <entry file="file://$PROJECT_DIR$/src/BFS/注意">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BFS/BFS1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/PerfectSquares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -756,16 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Huawei/UseOfHashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Huawei/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -792,10 +684,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OtherWithAnything/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huawei/SixteenToTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/LoopDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashSet/UseOfHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huawei/ShuDu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+          <folding>
+            <element signature="e#269#287#0" expanded="true" />
+            <element signature="e#348#366#0" expanded="true" />
+            <element signature="e#427#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashSet/DeleteDuplicateChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="20" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Huawei/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap/LinkedHashMapAndSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="e#1060#1088#0" expanded="true" />
           </folding>
         </state>
       </provider>
