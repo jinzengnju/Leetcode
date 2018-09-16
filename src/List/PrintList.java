@@ -3,14 +3,7 @@ package List;
 import java.util.*;
 
 //从尾到头打印链表
-class ListNode{
-    int val;
-    ListNode next;
-    public ListNode(int x){
-        val=x;
-        next=null;
-    }
-}
+
 public class PrintList {
     public static void main(String args){
 

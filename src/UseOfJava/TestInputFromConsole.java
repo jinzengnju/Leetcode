@@ -56,9 +56,9 @@ public class TestInputFromConsole {
 //        1
 //    然后对这串未知长度的数据进行处理，得到对应类型的数组。
 //    1.由于长度可变，所以不能直接用数组去接受，可以用ArrayList存储。
-//            2.控制台输入，可以用Scanner对象的标记读取next()方法进行处理。
-//            3.这里要提一下，默认情况下，Scanner对象的分隔符是空格，如果是“，”等其他类型的分隔符需要使用userDelimiter(String regex)方法设置新的分隔符模式。
-//            4.next()方法读取一个由分隔符分隔的字符串，nextLine()读取一个以换行符结束的行。
+//    2.控制台输入，可以用Scanner对象的标记读取next()方法进行处理。
+//    3.这里要提一下，默认情况下，Scanner对象的分隔符是空格，如果是“，”等其他类型的分隔符需要使用userDelimiter(String regex)方法设置新的分隔符模式。
+//    4.next()方法读取一个由分隔符分隔的字符串，nextLine()读取一个以换行符结束的行。
 
 //处理空格为分隔符的数据(以0作为结束标识)
     public static void test5(){
