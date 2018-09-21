@@ -47,4 +47,23 @@ public class LoopDelete {
         }
         return lastindex;
     }
+    //递归方法
+//    现在假设m=10
+//            0 1 2 3  4 5 6 7 8 9    k=3
+//    第一个人出列后的序列为：
+//            0 1 3 4 5 6 7 8 9
+//    即:
+//            3 4 5 6 7 8 9 0 1（*）
+//    我们把该式转化为:
+//            0 1 2 3 4 5 6 7 8 (**)
+//    则你会发现: （(**)+3）%10则转化为(*)式了
+    public int LastRemaining_Solution(int n,int k){
+        if (n==0)
+            return -1;
+        if (n==1)
+            return 0;
+        return (LastRemaining_Solution(n-1,k)+k)%3;
+    }
+
+
 }

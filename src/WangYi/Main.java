@@ -3,6 +3,7 @@ package WangYi;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//网易笔试题
 public class Main {
 
     private double[] init_dataweights(int N){
