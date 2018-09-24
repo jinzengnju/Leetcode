@@ -18,6 +18,7 @@ public class LongestPalindromeSubstring {
                         break;
                     }
                 }
+                //i为左边界，j为右边界
                 if ((temp1>=temp2)&&j-i>maxlen){
                     maxlen=j-i+1;
                     left=i;
@@ -63,4 +64,15 @@ public class LongestPalindromeSubstring {
         return str.substring(left,right+1);
     }
 
+    //马拉车算法，针对回文字符串
+    //https://blog.csdn.net/u014771464/article/details/79120964
+    //首先因为字符串可以为奇数也可以为偶数，为了避免分情况讨论，统一插入#
+    //# 1 # 2 # 2 # 1 # 2 # 2 #
+    //1 2 1 2 5 2 1 6 1 2 3 2 1
+    //将下面的数组求出即可
+    //需给开头加上个非#号字符'$'，结尾加一个'@'。
+    //需要新增两个辅助变量mx和id，其中id为最大回文子串中心的位置，mx是回文串能延伸到的最右端的位置（很多文章都这样说，其实并不是，根据下面的代码就能看出来，mx应该是已找到的回文子串所能到达的最右端，而id是最右端回文子串对应的中心），这个算法的最核心的一行如下：
+    //马拉车核心转换思想
+    //已知在j点处的回文子串和id处的回文字串，求关于id对称的i点的的回文子串的长度
+    //在另一个文件实现
 }
