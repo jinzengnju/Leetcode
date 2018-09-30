@@ -3,6 +3,7 @@ package Tree;
 import java.util.ArrayList;
 import java.util.List;
 
+//路径必须从根节点到叶子节点
 public class PathSum {
     public static void main(String[] args){}
     private List<List<Integer>> res=new ArrayList<>();
