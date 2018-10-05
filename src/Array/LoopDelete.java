@@ -18,8 +18,6 @@ public class LoopDelete {
 
     }
     public static int getNum(int n){
-        if(n>1000)
-            return getNum(999);
         if(n<=0)
             return -1;
         int[] nums=new int[n];
@@ -47,6 +45,7 @@ public class LoopDelete {
         }
         return lastindex;
     }
+
     //递归方法
 //    现在假设m=10
 //            0 1 2 3  4 5 6 7 8 9    k=3
@@ -58,11 +57,11 @@ public class LoopDelete {
 //            0 1 2 3 4 5 6 7 8 (**)
 //    则你会发现: （(**)+3）%10则转化为(*)式了
     public int LastRemaining_Solution(int n,int k){
-        if (n==0)
+        if (n==0)//特殊输入的处理
             return -1;
-        if (n==1)
+        if (n==1)//递归停止条件
             return 0;
-        return (LastRemaining_Solution(n-1,k)+k)%3;
+        return (LastRemaining_Solution(n-1,k)+k)%n;
     }
 
 
