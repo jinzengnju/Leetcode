@@ -10,15 +10,33 @@ public class StrToInteger {
         if (str==null||str.length()==0)
             return 0;
         int ret=0;
-        boolean isNegetive='-'==str.charAt(0);
+        char isNegetive=str.charAt(0)=='-'?'-':'+';
+        str=str.charAt(0)=='-'?str.substring(1):str;
         for (int i=0;i<str.length();i++){
             char c=str.charAt(i);
-            if (i==0&&('-'==c||'+'==c))
+            if (c<'0'||c>'9')
+                return 0;
+            ret=ret*10+(c-'0');
+        }
+        return ret;
+    }
+
+    public int StrToInt2(String str){
+        if (str==null||str.length()==0)
+            return 0;
+        boolean isNegetive=str.charAt(0)=='-';
+        int ret=0;
+        for(int i=0;i<str.length();i++){
+            char c=str.charAt(i);
+            if (i==0&&(c=='+'||c=='-'))
                 continue;
             if (c<'0'||c>'9')
                 return 0;
             ret=ret*10+(c-'0');
         }
-        return  isNegetive?-ret:ret;
+        return isNegetive==true?-ret:ret;
+
+
     }
+
 }
