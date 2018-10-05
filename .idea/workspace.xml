@@ -2,9 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/LoopDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/LoopDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreedyMethod/MaxIncomeOfStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreedyMethod/MaxIncomeOfStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/CreateMultiplyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/DuplicateNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindInMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/LCS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/LongestIncreasingSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/LoopDelete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MaximumOfContinueArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MaximumSeiries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MedianofTwoSortedArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ReversePairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/要点" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BFS/BFS1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BFS/PerfectSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BFS/注意" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/CharPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/PalindromePartitioning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/RobaotMoveScale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/hasPathInMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/MinNumberInRotateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/binarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitCompute/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorAndComparable/ComparableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparatorAndComparable/ComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/注意" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStream/CharStreamFisrstNoDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStream/MedianOfData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiGui/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiGui/注意" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/DiceSumProbab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/HouseRobber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/IntegerBreak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/PartitionEqualSubsetSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic/ZeroOneBag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FenZhi/BigDataCompute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GreedyMethod/MaxIncomeOfStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap/LinkedHashMapAndSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap/MapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashSet/DeleteDuplicateChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashSet/UseOfHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/Main3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/Main5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/Main6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/ShuDu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/SixteenToTen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huawei/Test4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/DeleteDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/IntersectionofTwoLinkedLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/MergeTwoSortedLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/PrintList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/ReverseLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiuLiShuo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreadLine/InverntoryStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreadLine/MultiLineCounter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreadLine/MultiLineCounter2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiThreadLine/Start_and_Run.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OtherWithAnything/LowestCommonAncestory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OtherWithAnything/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/Palindrome2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromeLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromePartitioning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/KthLargestElementinanArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/TopKFrequentElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/LongestPalidrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/LoopContain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/LoopMove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/MinimumWIndowSubstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/RegularMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/StrToInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/ValidAnagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/WordReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudyWithoutCode/无线转有线路由设置" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tencent/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tencent/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BinaryTreeInorderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/ConvertTreeToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/DiameterofBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/ImageOfTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/InvertBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/KthNumOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/LowestCommonAncestorofaBinarySearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/MakeBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/MaximumDepthOfBinaryTree2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/MinimumDepthofBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/NextPointInTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/PathSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/PathSumIII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/SerilizedTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/SubTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/SubtreeofAnotherTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/SymmetricTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode_v2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/VerifySquenceOfBST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/LongestWordinDictionarythroughDeleting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/MergeSortedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseOfJava/TestInputFromConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WangYi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WangYi/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WangYi/Main3.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,28 +137,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="138" />
+          <entry key="java" value="140" />
           <entry key="无线转有线路由设置" value="1" />
           <entry key="注意" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="138" />
+          <entry key="JAVA" value="140" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="29885" />
+          <entry key="java" value="30214" />
           <entry key="无线转有线路由设置" value="83" />
           <entry key="注意" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29884" />
+          <entry key="JAVA" value="30213" />
           <entry key="PLAIN_TEXT" value="99" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -59,10 +168,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dynamic/DiceSumProbab.java">
+        <entry file="file://$PROJECT_DIR$/src/Heap/MaxInWindows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,7 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HashSet/UseOfHashSet.java" />
         <option value="$PROJECT_DIR$/src/HashSet/DeleteDuplicateChar.java" />
         <option value="$PROJECT_DIR$/src/Huawei/ShuDu.java" />
         <option value="$PROJECT_DIR$/src/Huawei/Test4.java" />
@@ -141,6 +249,7 @@
         <option value="$PROJECT_DIR$/src/GreedyMethod/MaxIncomeOfStock.java" />
         <option value="$PROJECT_DIR$/src/Array/LoopDelete.java" />
         <option value="$PROJECT_DIR$/src/Dynamic/DiceSumProbab.java" />
+        <option value="$PROJECT_DIR$/src/Heap/MaxInWindows.java" />
       </list>
     </option>
   </component>
@@ -180,12 +289,6 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -199,7 +302,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkFile/shixi/leetcode/src/WangYi/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538738407636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538740566680" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -362,12 +465,12 @@
       <workItem from="1538120044057" duration="4524000" />
       <workItem from="1538285027337" duration="4522000" />
       <workItem from="1538372743720" duration="2680000" />
-      <workItem from="1538645442799" duration="10290000" />
+      <workItem from="1538645442799" duration="11484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241148000" />
+    <option name="totallyTimeSpent" value="242342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -410,20 +513,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/MakeBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LiuLiShuo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -767,6 +856,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Heap/MaxInWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
