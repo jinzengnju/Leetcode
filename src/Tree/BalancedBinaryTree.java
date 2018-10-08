@@ -34,19 +34,19 @@ public class BalancedBinaryTree {
      }
     }
 
-    public boolean isBalancedTree(TreeNode node){
-        maxDepth(node);
+    public boolean isBalancedTree(TreeNode root){
+        Depth(root);
         return result;
-
     }
-    private int maxDepth(TreeNode root){
-        if(root==null){
-            return  0;
-        }
-        int l=maxDepth(root.left);
-        int r=maxDepth(root.right);
-        if(Math.abs(l-r)>1) result=false;
-        return 1+Math.max(l,r);
-
+    private int Depth(TreeNode root){
+        if (root==null||!result)//这里的递归停止条件需要注意以下
+            return 0;
+        int left=Depth(root.left);
+        int right=Depth(root.right);
+        if (Math.abs(left-right)>1)
+            result=false;
+        return 1+ Math.max(left,right);
     }
+
+
 }
