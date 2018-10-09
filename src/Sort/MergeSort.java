@@ -34,6 +34,4 @@ public class MergeSort {
             a[low+m]=temp[m];
         }
     }
-
-
 }
