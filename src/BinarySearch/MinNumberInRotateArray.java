@@ -44,6 +44,5 @@ public class MinNumberInRotateArray {
                 return arr[i+1];
         }
         return arr[l];
-
     }
 }
