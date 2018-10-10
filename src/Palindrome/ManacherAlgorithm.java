@@ -4,9 +4,10 @@ package Palindrome;
 //求解最长回文子串
 public class ManacherAlgorithm {
     public static void main(String[] args){
-
+        String str="noon";
+        System.out.println(Manacher(str));
     }
-    public String Manacher(String s){
+    public static String Manacher(String s){
         String t="$#";
         for (int i=0;i<s.length();i++){
             t+=s.charAt(i)+"#";
@@ -32,6 +33,8 @@ public class ManacherAlgorithm {
                 resCenter=i;
             }
         }
+        System.out.println("resCenter"+resCenter);
+        System.out.println("resLen:"+resLen);
         return s.substring((resCenter - resLen) / 2, (resCenter - resLen) / 2 + resLen-1);
     }
 }
