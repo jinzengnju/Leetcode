@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/Dynamic/DecodeWays.java" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="" />
+    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome/PalindromNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,28 +32,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="161" />
+          <entry key="java" value="171" />
           <entry key="无线转有线路由设置" value="1" />
           <entry key="注意" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="161" />
+          <entry key="JAVA" value="171" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="35342" />
+          <entry key="java" value="35921" />
           <entry key="无线转有线路由设置" value="83" />
           <entry key="注意" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="35341" />
+          <entry key="JAVA" value="35920" />
           <entry key="PLAIN_TEXT" value="99" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -57,14 +62,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MeiTuan/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromePartitioning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome/LongestPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="75" column="7" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="90" lean-forward="true" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -89,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BitCompute/Add.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ComparatorAndComparable/Comparable.java" />
         <option value="$PROJECT_DIR$/src/ComparatorAndComparable/ComparableTest.java" />
@@ -99,11 +136,7 @@
         <option value="$PROJECT_DIR$/src/Palindrome/PalindromePartitioning.java" />
         <option value="$PROJECT_DIR$/src/Palindrome/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Palindrome/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome/PalindromNumber.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/Palindrome/Palindrome2.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/Tree/PathSum.java" />
         <option value="$PROJECT_DIR$/src/Tree/PathSumIII.java" />
         <option value="$PROJECT_DIR$/src/MultiThreadLine/Start_and_Run.java" />
@@ -140,6 +173,11 @@
         <option value="$PROJECT_DIR$/src/Dynamic/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/MeiTuan/Main.java" />
         <option value="$PROJECT_DIR$/src/MeiTuan/Main2.java" />
+        <option value="$PROJECT_DIR$/src/Array/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/PalindromNumber.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java" />
       </list>
     </option>
   </component>
@@ -149,10 +187,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="642" />
+    <option name="y" value="42" />
     <option name="width" value="1427" />
-    <option name="height" value="1038" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,7 +219,19 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MeiTuan" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -197,7 +248,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkFile/shixi/leetcode/src/WangYi/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539091313615" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539151821249" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,17 +411,18 @@
       <workItem from="1538120044057" duration="4524000" />
       <workItem from="1538285027337" duration="4522000" />
       <workItem from="1538372743720" duration="2680000" />
-      <workItem from="1538645442799" duration="41825000" />
+      <workItem from="1538645442799" duration="49052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272683000" />
+    <option name="totallyTimeSpent" value="279910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="0" width="1141" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22807017" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16554959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,7 +431,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28796563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28470254" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,55 +459,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="33" column="90" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromeLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/SubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/ImageOfTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/VerifySquenceOfBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/DiameterofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -548,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap/MapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -775,13 +771,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap/MapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MeiTuan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        <state relative-caret-position="425">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromicSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/LongestPalindromeSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="75" column="7" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/ManacherAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="90" lean-forward="true" selection-start-line="34" selection-start-column="90" selection-end-line="34" selection-end-column="90" />
         </state>
       </provider>
     </entry>

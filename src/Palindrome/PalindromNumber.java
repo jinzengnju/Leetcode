@@ -6,7 +6,7 @@ package Palindrome;
 //        串。这里我们就可以变换一种方法。比如对数字“12321”，12321/10000=1,首位为1, 12321%10=1，
 //        尾部为1，然后继续判断232这个数字，按照相同的方法（这里的关键是剩余数字的位数需要确定）
 
-public class PalindromNumber {
+public class  PalindromNumber {
     public static void main(String[] args){
 
     }
@@ -17,8 +17,7 @@ public class PalindromNumber {
             return false;
         int right=0;
         //循环的时候，num一直在减小，right一直增大
-        //当num与right位数相等，num可能会小于right，此时会将数字分成两半
-        //或者num的位数比right小，对应着原来数据可能是奇数位
+        //对于12321的情况：当num为123，right为12时，还要继续循环，right变为123，num为12
         while(num>right){
             right=right*10+num%10;
             num/=num/10;

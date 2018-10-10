@@ -15,7 +15,7 @@ public class PalindromicSubstrings {
     private int cnt=0;
     public int getRes(String str){
         for (int i=0;i<str.length();i++){
-            //以选定i的位置位回文串的中心往两边扩展，不会出现重复的
+            //以选定i的位置为回文串的中心往两边扩展，不会出现重复的
             //因为索引肯定是不同的
             entendPalindrome(str,i,i);
             entendPalindrome(str,i,i+1);

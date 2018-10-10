@@ -13,7 +13,7 @@ public class LongestPalindromeSubstring {
             for (int j=i+1;j< str.length();j++){
                 int temp1,temp2;
                 for (temp1=i,temp2=j;temp1<temp2;temp1++,temp2--){
-                    //这里的判断条件不能有等号
+                    //这里的判断条件不能有等号，这个for循环是判断i到j之间的字符串是否为回文串
                     if (str.charAt(temp1)!=str.charAt(temp2)){
                         break;
                     }
@@ -52,8 +52,9 @@ public class LongestPalindromeSubstring {
         //我们遍历的时候i设置为待查询字符串的右边界
         for(int i=0;i<str.length();i++){
             for (int j=0;j<i;j++){
+                //判断（j,i）之间是否为回文串
                 dp[j][i]=str.charAt(i)==str.charAt(j)&&(i-j<2||dp[j+1][i-1]);
-                if (dp[i][j]==true&&i-j+1>maxlen){
+                if (dp[j][i]==true&&i-j+1>maxlen){
                     maxlen=i-j;
                     left=j;
                     right=i;
@@ -71,7 +72,8 @@ public class LongestPalindromeSubstring {
     //1 2 1 2 5 2 1 6 1 2 3 2 1
     //将下面的数组求出即可
     //需给开头加上个非#号字符'$'，结尾加一个'@'。
-    //需要新增两个辅助变量mx和id，其中id为最大回文子串中心的位置，mx是回文串能延伸到的最右端的位置（很多文章都这样说，其实并不是，根据下面的代码就能看出来，mx应该是已找到的回文子串所能到达的最右端，而id是最右端回文子串对应的中心），这个算法的最核心的一行如下：
+    //需要新增两个辅助变量mx和id，其中id为最大回文子串中心的位置，mx是回文串能延伸到的最右端的位置（很多文章都这样说，其实并不是，根据下面的代码就能看出来，mx应该是已找到的
+    // 回文子串所能到达的最右端，而id是最右端回文子串对应的中心），这个算法的最核心的一行如下：
     //马拉车核心转换思想
     //已知在j点处的回文子串和id处的回文字串，求关于id对称的i点的的回文子串的长度
     //在另一个文件实现
