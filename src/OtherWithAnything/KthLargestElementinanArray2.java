@@ -8,6 +8,7 @@ public class KthLargestElementinanArray2 {
     public static void main(String[] args){}
     public int getRes(int[] nums,int K){
         PriorityQueue<Integer> heap=new PriorityQueue<>();
+        PriorityQueue<Integer> heap2=new PriorityQueue<>(((o1, o2) -> o2-o1));
         for (int val:nums){
             heap.add(val);
             if (heap.size()>K)
@@ -15,5 +16,4 @@ public class KthLargestElementinanArray2 {
         }
         return heap.peek();
     }
-
 }
