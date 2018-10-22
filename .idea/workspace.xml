@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/Dynamic/DecodeWays.java" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="" />
+    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/BFS/BFS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BFS/BFS1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,28 +29,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="214" />
+          <entry key="java" value="216" />
           <entry key="无线转有线路由设置" value="1" />
           <entry key="注意" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="214" />
+          <entry key="JAVA" value="216" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="43952" />
+          <entry key="java" value="45267" />
           <entry key="无线转有线路由设置" value="83" />
           <entry key="注意" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="43951" />
+          <entry key="JAVA" value="45266" />
           <entry key="PLAIN_TEXT" value="99" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -57,11 +59,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FenZhi/DifferentWaystoAddParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+            <state relative-caret-position="296">
+              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BFS/BFS1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStream/CharStreamFisrstNoDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/Array/MaximumOfContinueArray.java" />
         <option value="$PROJECT_DIR$/src/StudyWithoutCode/无线转有线路由设置" />
         <option value="$PROJECT_DIR$/src/HashMap/MapSort.java" />
         <option value="$PROJECT_DIR$/src/Tree/LowestCommonAncestorofaBinarySearchTree.java" />
@@ -137,6 +152,8 @@
         <option value="$PROJECT_DIR$/src/BinarySearch/TheLeftPosOfNumber.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/SingleElementinaSortedArray.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java" />
+        <option value="$PROJECT_DIR$/src/FenZhi/DifferentWaystoAddParentheses.java" />
+        <option value="$PROJECT_DIR$/src/BFS/BFS1.java" />
       </list>
     </option>
   </component>
@@ -146,7 +163,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="225" />
     <option name="y" value="75" />
     <option name="width" value="1430" />
@@ -178,7 +195,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
+              <item name="BFS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -195,7 +212,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkFile/shixi/leetcode/src/WangYi/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540043470323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540219282249" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -367,15 +384,15 @@
       <workItem from="1538645442799" duration="67043000" />
       <workItem from="1539521806435" duration="5160000" />
       <workItem from="1539699448313" duration="17003000" />
-      <workItem from="1540038700641" duration="4079000" />
+      <workItem from="1540038700641" duration="10365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324143000" />
+    <option name="totallyTimeSpent" value="330429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546917" />
@@ -393,7 +410,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7751061" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.77478755" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32980973" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32479784" />
@@ -415,20 +432,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FenZhi/BigDataCompute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="50" lean-forward="true" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FenZhi/InversePairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -767,8 +770,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        <state relative-caret-position="245">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FenZhi/DifferentWaystoAddParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/BFS1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
