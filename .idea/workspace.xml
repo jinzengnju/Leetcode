@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Dynamic/DecodeWays.java" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +18,37 @@
         <counts>
           <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="208" />
+          <entry key="java" value="214" />
           <entry key="无线转有线路由设置" value="1" />
           <entry key="注意" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="208" />
+          <entry key="JAVA" value="214" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="43138" />
+          <entry key="java" value="43952" />
           <entry key="无线转有线路由设置" value="83" />
           <entry key="注意" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="43137" />
+          <entry key="JAVA" value="43951" />
           <entry key="PLAIN_TEXT" value="99" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -58,7 +56,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,9 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MultiThreadLine/InverntoryStock.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreadLine/MultiLineCounter2.java" />
-        <option value="$PROJECT_DIR$/src/DataStream/MedianOfData.java" />
         <option value="$PROJECT_DIR$/src/DataStream/CharStreamFisrstNoDuplicate.java" />
         <option value="$PROJECT_DIR$/src/Array/MaximumOfContinueArray.java" />
         <option value="$PROJECT_DIR$/src/StudyWithoutCode/无线转有线路由设置" />
@@ -129,6 +134,9 @@
         <option value="$PROJECT_DIR$/src/OtherWithAnything/KthLargestElementinanArray2.java" />
         <option value="$PROJECT_DIR$/src/Sort/BucketSort/TopKFrequentElements.java" />
         <option value="$PROJECT_DIR$/src/Sort/BucketSort/SortCharactersByFrequency.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/TheLeftPosOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/SingleElementinaSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java" />
       </list>
     </option>
   </component>
@@ -138,10 +146,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="225" />
     <option name="y" value="75" />
-    <option name="width" value="1429" />
+    <option name="width" value="1430" />
     <option name="height" value="850" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -168,6 +176,12 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -181,7 +195,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkFile/shixi/leetcode/src/WangYi/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540038607127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540043470323" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -353,16 +367,18 @@
       <workItem from="1538645442799" duration="67043000" />
       <workItem from="1539521806435" duration="5160000" />
       <workItem from="1539699448313" duration="17003000" />
+      <workItem from="1540038700641" duration="4079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320064000" />
+    <option name="totallyTimeSpent" value="324143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546917" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +393,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.776204" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7751061" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32980973" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32479784" />
@@ -399,52 +415,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Tree/LowestCommonAncestorofaBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/BalancedBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Depth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FenZhi/BigDataCompute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
           <caret line="135" column="50" lean-forward="true" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/getNumberOfK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/binarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/MinNumberInRotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -704,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,9 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
           <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +727,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/MinNumberInRotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/getNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/TheLeftPosOfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SingleElementinaSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
         </state>
       </provider>
     </entry>
