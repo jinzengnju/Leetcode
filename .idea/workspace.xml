@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73a6a037-bd6f-4151-b086-af2a674e8167" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BFS/BFS1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BFS/BFS1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,28 +29,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="216" />
+          <entry key="java" value="218" />
           <entry key="无线转有线路由设置" value="1" />
           <entry key="注意" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="216" />
+          <entry key="JAVA" value="218" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="45267" />
+          <entry key="java" value="46182" />
           <entry key="无线转有线路由设置" value="83" />
           <entry key="注意" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45266" />
+          <entry key="JAVA" value="46181" />
           <entry key="PLAIN_TEXT" value="99" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -59,23 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FenZhi/DifferentWaystoAddParentheses.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="517">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BFS/BFS1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="507">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StudyWithoutCode/无线转有线路由设置" />
         <option value="$PROJECT_DIR$/src/HashMap/MapSort.java" />
         <option value="$PROJECT_DIR$/src/Tree/LowestCommonAncestorofaBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/String/StrToInteger.java" />
@@ -154,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/BinarySearch/SearchforaRange.java" />
         <option value="$PROJECT_DIR$/src/FenZhi/DifferentWaystoAddParentheses.java" />
         <option value="$PROJECT_DIR$/src/BFS/BFS1.java" />
+        <option value="$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java" />
       </list>
     </option>
   </component>
@@ -199,6 +196,12 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -212,7 +215,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/WorkFile/shixi/leetcode/src/WangYi/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540219282249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540261781274" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -384,12 +387,12 @@
       <workItem from="1538645442799" duration="67043000" />
       <workItem from="1539521806435" duration="5160000" />
       <workItem from="1539699448313" duration="17003000" />
-      <workItem from="1540038700641" duration="10365000" />
+      <workItem from="1540038700641" duration="13662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330429000" />
+    <option name="totallyTimeSpent" value="333726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -432,13 +435,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FenZhi/InversePairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dynamic/GetUglyNumber_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -787,11 +783,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/BFS1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="507">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/MaxAreaofIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
         </state>
       </provider>
     </entry>
