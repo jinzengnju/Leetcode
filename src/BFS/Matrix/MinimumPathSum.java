@@ -6,8 +6,25 @@ package BFS.Matrix;
 //Given the above grid map, return 7. Because the path 1→3→1→1→1 minimizes the sum.
 //这道题不是用广度优先搜索，而是用动态规划
 
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.util.Arrays;
+import java.util.List;
+
 public class MinimumPathSum {
-    public static void main(String[] args){}
+    public static void main(String[] args) throws Exception{
+        Integer[] i ={11,22,33};
+        List intlist = Arrays.asList(i);
+        for(Object o:intlist){
+            System.out.println(o);
+        }
+        ObjectInputStream ois=new ObjectInputStream(new FileInputStream("test.txt"));
+        Object e=ois.readObject();
+        System.out.println(e);
+
+    }
 
     public int getRes(int[][] grid){
         if (grid==null||grid.length==0){

@@ -11,9 +11,10 @@ public class Main {
             y1=scan.nextInt();
             x2=scan.nextInt();
             y2=scan.nextInt();
+            System.out.println(x1);
 
-            System.out.println(getRes(x1,y1,x2,y2));
         }
+        scan.close();
 
     }
     public static int getRes(int x1,int y1,int x2,int y2){

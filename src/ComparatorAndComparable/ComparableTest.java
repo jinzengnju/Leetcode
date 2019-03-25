@@ -36,12 +36,11 @@ class Person implements Comparable<Person>{
     }
     //重写该类的compareTo()方法，使其按照从小到大顺序排序
     public int compareTo(Person o){
-        return age-o.age;
+        return this.age-o.age;
     }
     public String toString() {
         return "Person[name:"+name+",age:"+age+"]";
     }
 
-
-
 }
+//在测试类中通过Colletions.sort即可实现排序

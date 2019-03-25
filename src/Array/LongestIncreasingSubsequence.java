@@ -37,7 +37,6 @@ public class LongestIncreasingSubsequence {
             }
             dp[i]=max;
         }
-
         int ret = 0;
         for (int i = 0; i < n; i++) {
             ret = Math.max(ret, dp[i]);

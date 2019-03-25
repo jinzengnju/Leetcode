@@ -2,21 +2,20 @@ package OtherWithAnything;
 
 import Tree.TreeNode;
 
-public class BalancedBinaryTree {
+public class BalancedBinaryTree{
     public static void main(String[] args){}
-    private boolean res=true;
-    public boolean isBalanced(TreeNode root){
-        Depth(root);
-        return res;
+    private boolean result=true;
+    public boolean getRes(TreeNode root){
+        maxDepth(root);
+        return this.result;
     }
-    private int Depth(TreeNode root){
+    private int maxDepth(TreeNode root){
         if (root==null)
             return 0;
-        int left=Depth(root.left);
-        int right=Depth(root.right);
-        if (Math.abs(left-right)>1)
-            res=false;
-        return Math.max(left,right)+1;
-
+        int l=maxDepth(root.left);
+        int r=maxDepth(root.right);
+        if (Math.abs(l-r)>1) this.result=false;
+        return 1+Math.max(l,r);
     }
+
 }

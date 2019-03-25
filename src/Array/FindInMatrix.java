@@ -24,7 +24,4 @@ public class FindInMatrix {
         }
         return false;
     }
-
-
-
 }

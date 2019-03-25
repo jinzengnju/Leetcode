@@ -11,7 +11,7 @@ public class ReversePairs {
     public int ReversePairNums(int[] nums){
         this.temp=new int[nums.length];
         mergeSort(nums,0,nums.length-1);
-        return (int)(cnt%10000007);
+        return (int)(this.cnt%10000007);
 
     }
     private void mergeSort(int[] nums,int l,int h){
