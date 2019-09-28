@@ -102,7 +102,7 @@ public class GraphImpl {
         }
         int k=0;
         for(int j=0;j<n;i++){
-            if(a[j][i]!=0 && a[j][i]!=MaxValue) k++;
+            if(a[j][i]!=0 && a[j][i]!=MaxValue) k++;//i固定
         }
         return k;
     }
@@ -167,6 +167,7 @@ public class GraphImpl {
         dfs(v,visited);							//把每个结点遍历一次。
         System.out.println();
     }
+
     //进行深度优先搜索的内部递归方法使用
     private void dfs(int i,boolean visited[]){	//工作函数
         System.out.print(i+" ");
